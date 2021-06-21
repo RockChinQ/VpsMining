@@ -1,0 +1,250 @@
+# HF18
+
+## Device
+
+Vultr-HighFrequency-Tokyo-CentOS 8 x64-80GB NVMe-2CPU-2048MB-3000GB Bandwidth
+
+## Price
+
+$0.027/h
+
+## Algo
+
+rx/0
+
+## HalfHourShares
+
+416027
+
+## Estimate1MonthAmount
+
+599,078,880
+
+## Estimate1MonthProfit
+
+0.0017385839
+~2.78CNY
+
+## Rate
+
+2.45%
+
+## HashRate
+
+145H/s
+
+## CPU Usage
+
+201%
+
+## Log
+
+[2021-06-21 05:46:20.698]  msr      FAILED TO APPLY MSR MOD, HASHRATE WILL BE LOW
+[2021-06-21 05:46:20.698]  randomx  init dataset algo rx/0 (2 threads) seed 82cc97d1ad029f9e...
+[2021-06-21 05:46:20.698]  randomx  not enough memory for RandomX dataset
+[2021-06-21 05:46:20.712]  randomx  failed to allocate RandomX dataset, switching to slow mode (14 ms)
+[2021-06-21 05:46:20.984]  randomx  dataset ready (272 ms)
+[2021-06-21 05:46:20.984]  cpu      use profile  rx  (2 threads) scratchpad 2048 KB
+[2021-06-21 05:46:20.985]  cpu      READY threads 2/2 (2) huge pages 100% 2/2 memory 4096 KB (2 ms)
+[2021-06-21 05:46:32.509]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387876
+[2021-06-21 05:47:21.120]  miner    speed 10s/60s/15m 145.2 n/a n/a H/s max 153.4 H/s
+[2021-06-21 05:48:05.021]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387877
+[2021-06-21 05:48:16.355]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387878
+[2021-06-21 05:48:21.259]  miner    speed 10s/60s/15m 143.9 149.1 n/a H/s max 155.0 H/s
+[2021-06-21 05:48:50.627]  cpu      accepted (1/0) diff 50000 (916 ms)
+[2021-06-21 05:49:21.409]  miner    speed 10s/60s/15m 148.8 149.7 n/a H/s max 155.0 H/s
+[2021-06-21 05:49:32.645]  net      new job from mine.c3pool.cn:15555 diff 41557 algo rx/0 height 2387879
+[2021-06-21 05:49:38.434]  cpu      accepted (2/0) diff 41557 (280 ms)
+[2021-06-21 05:49:45.080]  net      new job from mine.c3pool.cn:15555 diff 13438 algo rx/0 height 2387879
+[2021-06-21 05:50:07.489]  cpu      accepted (3/0) diff 13438 (264 ms)
+[2021-06-21 05:50:21.566]  miner    speed 10s/60s/15m 144.6 147.8 n/a H/s max 155.0 H/s
+ - RESULTS
+ * accepted         3 (100.0%)
+[2021-06-21 05:46:32.509]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387876
+[2021-06-21 05:47:21.120]  miner    speed 10s/60s/15m 145.2 n/a n/a H/s max 153.4 H/s
+[2021-06-21 05:48:05.021]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387877
+[2021-06-21 05:48:16.355]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387878
+[2021-06-21 05:48:21.259]  miner    speed 10s/60s/15m 143.9 149.1 n/a H/s max 155.0 H/s
+[2021-06-21 05:48:50.627]  cpu      accepted (1/0) diff 50000 (916 ms)
+[2021-06-21 05:49:21.409]  miner    speed 10s/60s/15m 148.8 149.7 n/a H/s max 155.0 H/s
+[2021-06-21 05:49:32.645]  net      new job from mine.c3pool.cn:15555 diff 41557 algo rx/0 height 2387879
+[2021-06-21 05:49:38.434]  cpu      accepted (2/0) diff 41557 (280 ms)
+[2021-06-21 05:49:45.080]  net      new job from mine.c3pool.cn:15555 diff 13438 algo rx/0 height 2387879
+[2021-06-21 05:50:07.489]  cpu      accepted (3/0) diff 13438 (264 ms)
+[2021-06-21 05:50:21.566]  miner    speed 10s/60s/15m 144.6 147.8 n/a H/s max 155.0 H/s
+ - RESULTS
+ * accepted         3 (100.0%)
+[2021-06-21 05:46:20.712]  randomx  failed to allocate RandomX dataset, switching to slow mode (14 ms)
+[2021-06-21 05:46:20.984]  randomx  dataset ready (272 ms)
+[2021-06-21 05:46:20.984]  cpu      use profile  rx  (2 threads) scratchpad 2048 KB
+[2021-06-21 05:46:20.985]  cpu      READY threads 2/2 (2) huge pages 100% 2/2 memory 4096 KB (2 ms)
+[2021-06-21 05:46:32.509]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387876
+[2021-06-21 05:47:21.120]  miner    speed 10s/60s/15m 145.2 n/a n/a H/s max 153.4 H/s
+[2021-06-21 05:48:05.021]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387877
+[2021-06-21 05:48:16.355]  net      new job from mine.c3pool.cn:15555 diff 50000 algo rx/0 height 2387878
+[2021-06-21 05:48:21.259]  miner    speed 10s/60s/15m 143.9 149.1 n/a H/s max 155.0 H/s
+[2021-06-21 05:48:50.627]  cpu      accepted (1/0) diff 50000 (916 ms)
+[2021-06-21 05:49:21.409]  miner    speed 10s/60s/15m 148.8 149.7 n/a H/s max 155.0 H/s
+[2021-06-21 05:49:32.645]  net      new job from mine.c3pool.cn:15555 diff 41557 algo rx/0 height 2387879
+[2021-06-21 05:49:38.434]  cpu      accepted (2/0) diff 41557 (280 ms)
+[2021-06-21 05:49:45.080]  net      new job from mine.c3pool.cn:15555 diff 13438 algo rx/0 height 2387879
+[2021-06-21 05:50:07.489]  cpu      accepted (3/0) diff 13438 (264 ms)
+[2021-06-21 05:50:21.566]  miner    speed 10s/60s/15m 144.6 147.8 n/a H/s max 155.0 H/s
+ - RESULTS
+ * accepted         3 (100.0%)
+ * pool-side hashes 104995 avg 34998
+ * difficulty       13438
+ * avg result time  89.5s
+ - TOP 10
+  # | DIFFICULTY | EFFORT % |
+  1 |     118922 |    88.29 |
+  2 |      94398 |   111.23 |
+  3 |      21800 |   481.63 |
+[2021-06-21 05:50:59.698]  net      new job from mine.c3pool.cn:15555 diff 11913 algo rx/0 height 2387880
+[2021-06-21 05:51:09.503]  cpu      accepted (4/0) diff 11913 (280 ms)
+[2021-06-21 05:51:21.695]  miner    speed 10s/60s/15m 152.7 151.9 n/a H/s max 155.0 H/s
+[2021-06-21 05:52:01.614]  cpu      accepted (5/0) diff 11913 (279 ms)
+[2021-06-21 05:52:17.926]  net      new job from mine.c3pool.cn:15555 diff 10811 algo rx/0 height 2387881
+[2021-06-21 05:52:21.823]  miner    speed 10s/60s/15m 145.4 151.6 n/a H/s max 155.3 H/s
+[2021-06-21 05:52:27.264]  cpu      accepted (6/0) diff 10811 (778 ms)
+[2021-06-21 05:53:00.741]  net      new job from mine.c3pool.cn:15555 diff 10897 algo rx/0 height 2387882
+[2021-06-21 05:53:03.626]  cpu      accepted (7/0) diff 10897 (281 ms)
+[2021-06-21 05:53:21.956]  miner    speed 10s/60s/15m 142.9 147.2 n/a H/s max 155.3 H/s
+[2021-06-21 05:54:17.562]  cpu      accepted (8/0) diff 10897 (281 ms)
+[2021-06-21 05:54:22.095]  miner    speed 10s/60s/15m 145.0 143.8 n/a H/s max 155.3 H/s
+[2021-06-21 05:54:53.710]  cpu      accepted (9/0) diff 10897 (306 ms)
+[2021-06-21 05:55:12.860]  net      new job from mine.c3pool.cn:15555 diff 9600 algo rx/0 height 2387883
+[2021-06-21 05:55:22.235]  miner    speed 10s/60s/15m 139.4 142.9 n/a H/s max 155.3 H/s
+[2021-06-21 05:55:31.506]  cpu      accepted (10/0) diff 9600 (329 ms)
+[2021-06-21 05:55:44.228]  cpu      accepted (11/0) diff 9600 (281 ms)
+[2021-06-21 05:56:07.712]  cpu      accepted (12/0) diff 9600 (762 ms)
+[2021-06-21 05:56:22.386]  miner    speed 10s/60s/15m 138.2 139.0 n/a H/s max 155.3 H/s
+[2021-06-21 05:57:15.186]  net      new job from mine.c3pool.cn:15555 diff 9662 algo rx/0 height 2387884
+[2021-06-21 05:57:22.524]  miner    speed 10s/60s/15m 139.9 140.9 n/a H/s max 155.3 H/s
+[2021-06-21 05:57:32.308]  net      new job from mine.c3pool.cn:15555 diff 9662 algo rx/0 height 2387885
+[2021-06-21 05:58:22.663]  miner    speed 10s/60s/15m 140.6 144.8 n/a H/s max 155.3 H/s
+[2021-06-21 05:58:25.409]  cpu      accepted (13/0) diff 9662 (285 ms)
+[2021-06-21 05:58:35.600]  net      new job from mine.c3pool.cn:15555 diff 8815 algo rx/0 height 2387886
+[2021-06-21 05:58:40.253]  net      new job from mine.c3pool.cn:15555 diff 8815 algo rx/0 height 2387887
+[2021-06-21 05:58:40.736]  cpu      accepted (14/0) diff 8815 (625 ms)
+[2021-06-21 05:59:05.686]  cpu      accepted (15/0) diff 8815 (336 ms)
+[2021-06-21 05:59:19.089]  net      new job from mine.c3pool.cn:15555 diff 8849 algo rx/0 height 2387888
+[2021-06-21 05:59:22.796]  miner    speed 10s/60s/15m 154.3 147.9 n/a H/s max 155.3 H/s
+[2021-06-21 06:00:22.918]  miner    speed 10s/60s/15m 145.6 146.9 n/a H/s max 155.8 H/s
+[2021-06-21 06:01:09.620]  net      new job from mine.c3pool.cn:15555 diff 7926 algo rx/0 height 2387889
+[2021-06-21 06:01:16.629]  cpu      accepted (16/0) diff 7926 (285 ms)
+[2021-06-21 06:01:23.075]  miner    speed 10s/60s/15m 145.9 146.9 146.5 H/s max 155.8 H/s
+[2021-06-21 06:02:08.959]  cpu      accepted (17/0) diff 7926 (280 ms)
+[2021-06-21 06:02:23.201]  miner    speed 10s/60s/15m 141.2 145.2 146.4 H/s max 155.8 H/s
+[2021-06-21 06:02:45.408]  cpu      accepted (18/0) diff 7926 (958 ms)
+[2021-06-21 06:03:01.946]  net      new job from mine.c3pool.cn:15555 diff 7685 algo rx/0 height 2387890
+[2021-06-21 06:03:23.327]  miner    speed 10s/60s/15m 147.9 145.4 146.1 H/s max 155.8 H/s
+ - RESULTS
+ * accepted         18 (100.0%)
+ * pool-side hashes 252193 avg 14011
+ * difficulty       7685
+ * avg result time  57.0s
+ - TOP 10
+  # | DIFFICULTY | EFFORT % |
+  1 |      6699K |     3.76 |
+  2 |     179850 |   140.22 |
+  3 |     118922 |   212.07 |
+  4 |      94398 |   267.16 |
+  5 |      54874 |   459.59 |
+  6 |      40013 |   630.28 |
+  7 |      36001 |   700.52 |
+  8 |      31034 |   812.63 |
+  9 |      22458 |  1122.95 |
+ 10 |      21800 |  1156.85 |
+[2021-06-21 06:03:26.918]  cpu      accepted (19/0) diff 7685 (280 ms)
+[2021-06-21 06:04:23.460]  miner    speed 10s/60s/15m 150.3 144.7 145.8 H/s max 155.8 H/s
+[2021-06-21 06:04:40.336]  net      new job from mine.c3pool.cn:15555 diff 7464 algo rx/0 height 2387891
+[2021-06-21 06:04:50.107]  cpu      accepted (20/0) diff 7464 (285 ms)
+ - CONNECTION
+ * pool address     mine.c3pool.cn:15555 (121.4.63.228)
+ * algorithm        rx/0
+ * difficulty       7464
+ * ping time        285ms
+ * connection time  1140s
+[2021-06-21 06:06:23.766]  miner    speed 10s/60s/15m 144.9 144.5 145.0 H/s max 155.8 H/s
+[2021-06-21 06:06:28.945]  cpu      accepted (21/0) diff 7464 (283 ms)
+[2021-06-21 06:06:34.089]  cpu      accepted (22/0) diff 7464 (283 ms)
+[2021-06-21 06:07:23.896]  miner    speed 10s/60s/15m 151.1 149.0 144.9 H/s max 155.8 H/s
+[2021-06-21 06:07:38.870]  cpu      accepted (23/0) diff 7464 (280 ms)
+[2021-06-21 06:07:46.500]  cpu      accepted (24/0) diff 7464 (775 ms)
+[2021-06-21 06:07:53.563]  cpu      accepted (25/0) diff 7464 (282 ms)
+[2021-06-21 06:08:02.645]  cpu      accepted (26/0) diff 7464 (280 ms)
+[2021-06-21 06:08:24.038]  miner    speed 10s/60s/15m 148.2 149.5 145.0 H/s max 155.8 H/s
+[2021-06-21 06:08:32.083]  cpu      accepted (27/0) diff 7464 (309 ms)
+[2021-06-21 06:08:49.260]  cpu      accepted (28/0) diff 7464 (281 ms)
+[2021-06-21 06:08:50.916]  cpu      accepted (29/0) diff 7464 (280 ms)
+[2021-06-21 06:09:02.923]  cpu      accepted (30/0) diff 7464 (290 ms)
+[2021-06-21 06:09:15.906]  net      new job from mine.c3pool.cn:15555 diff 7130 algo rx/0 height 2387892
+[2021-06-21 06:09:22.816]  cpu      accepted (31/0) diff 7130 (751 ms)
+[2021-06-21 06:09:24.189]  miner    speed 10s/60s/15m 146.5 147.9 145.3 H/s max 155.8 H/s
+[2021-06-21 06:09:26.910]  cpu      accepted (32/0) diff 7130 (283 ms)
+[2021-06-21 06:09:45.474]  cpu      accepted (33/0) diff 7130 (284 ms)
+[2021-06-21 06:09:57.723]  net      new job from mine.c3pool.cn:15555 diff 7609 algo rx/0 height 2387893
+[2021-06-21 06:10:10.970]  cpu      accepted (34/0) diff 7609 (282 ms)
+[2021-06-21 06:10:24.333]  miner    speed 10s/60s/15m 151.3 149.0 145.7 H/s max 155.8 H/s
+[2021-06-21 06:11:12.035]  cpu      accepted (35/0) diff 7609 (284 ms)
+[2021-06-21 06:11:22.429]  cpu      accepted (36/0) diff 7609 (304 ms)
+[2021-06-21 06:11:24.031]  net      new job from mine.c3pool.cn:15555 diff 7599 algo rx/0 height 2387894
+[2021-06-21 06:11:24.462]  miner    speed 10s/60s/15m 149.3 148.6 146.4 H/s max 155.8 H/s
+[2021-06-21 06:11:25.705]  net      new job from mine.c3pool.cn:15555 diff 7599 algo rx/0 height 2387895
+[2021-06-21 06:12:00.355]  cpu      accepted (37/0) diff 7599 (286 ms)
+[2021-06-21 06:12:24.603]  miner    speed 10s/60s/15m 151.9 149.7 146.9 H/s max 155.8 H/s
+[2021-06-21 06:13:03.418]  net      new job from mine.c3pool.cn:15555 diff 7455 algo rx/0 height 2387896
+[2021-06-21 06:13:14.167]  cpu      accepted (38/0) diff 7455 (283 ms)
+[2021-06-21 06:13:18.317]  net      new job from mine.c3pool.cn:15555 diff 7455 algo rx/0 height 2387897
+[2021-06-21 06:13:24.734]  miner    speed 10s/60s/15m 146.0 147.6 147.1 H/s max 155.8 H/s
+[2021-06-21 06:13:33.140]  net      new job from mine.c3pool.cn:15555 diff 7455 algo rx/0 height 2387898
+[2021-06-21 06:13:50.500]  cpu      accepted (39/0) diff 7455 (283 ms)
+[2021-06-21 06:14:02.239]  net      new job from mine.c3pool.cn:15555 diff 7319 algo rx/0 height 2387899
+[2021-06-21 06:14:08.047]  net      new job from mine.c3pool.cn:15555 diff 7319 algo rx/0 height 2387900
+ - RESULTS
+ * accepted         39 (100.0%)
+ * pool-side hashes 408708 avg 10480
+ * difficulty       7319
+ * avg result time  43.0s
+ - TOP 10
+  # | DIFFICULTY | EFFORT % |
+  1 |      6699K |     6.10 |
+  2 |     179850 |   227.25 |
+  3 |     121322 |   336.88 |
+  4 |     118922 |   343.68 |
+  5 |      94398 |   432.96 |
+  6 |      54874 |   744.81 |
+  7 |      47365 |   862.89 |
+  8 |      40013 |  1021.44 |
+  9 |      38285 |  1067.54 |
+ 10 |      36001 |  1135.27 |
+[2021-06-21 06:14:24.862]  miner    speed 10s/60s/15m 145.0 145.0 146.9 H/s max 155.8 H/s
+[2021-06-21 06:14:31.068]  cpu      accepted (40/0) diff 7319 (283 ms)
+[2021-06-21 06:15:12.078]  net      new job from mine.c3pool.cn:15555 diff 7321 algo rx/0 height 2387901
+[2021-06-21 06:15:25.006]  miner    speed 10s/60s/15m 149.7 147.3 146.9 H/s max 155.8 H/s
+ - RESULTS
+ * accepted         40 (100.0%)
+ * pool-side hashes 416027 avg 10401
+ * difficulty       7321
+ * avg result time  45.0s
+ - TOP 10
+  # | DIFFICULTY | EFFORT % |
+  1 |      6699K |     6.21 |
+  2 |     179850 |   231.32 |
+  3 |     121322 |   342.91 |
+  4 |     118922 |   349.83 |
+  5 |      94398 |   440.72 |
+  6 |      54874 |   758.15 |
+  7 |      47365 |   878.34 |
+  8 |      40013 |  1039.73 |
+  9 |      38285 |  1086.66 |
+ 10 |      36001 |  1155.60 |
+|    CPU # | AFFINITY | 10s H/s | 60s H/s | 15m H/s |
+|        0 |        0 |   75.74 |   74.56 |   73.53 |
+|        1 |        1 |   75.74 |   74.51 |   73.55 |
+|        - |        - |   151.5 |   149.1 |   147.1 |
+[2021-06-21 06:16:21.637]  miner    speed 10s/60s/15m 151.5 149.1 147.1 H/s max 155.8 H/s
+[2021-06-21 06:16:23.201]  signal   Ctrl+C received, exiting
+[2021-06-21 06:16:23.217]  cpu      stopped (15 ms)
+[root@HF18 xmrig]#
