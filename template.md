@@ -1,5 +1,9 @@
 # <device_name_here_as_the_file_name>
 
+## Time
+
+2022/4/15
+
 ## Device
 
 \<Provider>-\<Category>-\<Location>-\<OS>-\<Storage>-\<CPUCore>-\<Memory>-\<OtherInfo>  
@@ -34,10 +38,9 @@ e.g.
 e.g.
 4,959,793,440
 
-## Estimate1MonthProfit
+## Estimate1MonthProfit(XMR)
 
 0.0143937929
-~23.03CNY
 
 ## Rate
 
