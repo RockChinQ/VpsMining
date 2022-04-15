@@ -57,6 +57,7 @@ e.g.
 
 ## Log
 
+```
 e.g.
 [root@vultrguest xmrig]# ./xmrig
  * ABOUT        XMRig/6.9.0 gcc/5.4.0
@@ -303,3 +304,4 @@ e.g.
 [2021-06-20 07:43:40.682]  signal   Ctrl+C received, exiting
 [2021-06-20 07:43:40.684]  cpu      stopped (2 ms)
 [root@vultrguest xmrig]# 
+```
