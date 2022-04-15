@@ -2,7 +2,7 @@
 
 ## Device
 
-\<provider>-\<Category>-\<Location>-\<OS>-\<Storage>-\<CPUCore>-\<Memory>-\<OtherInfo>  
+\<Provider>-\<Category>-\<Location>-\<OS>-\<Storage>-\<CPUCore>-\<Memory>-\<OtherInfo>  
 e.g.
 Vultr-HighFrequency-Tokyo-CentOS 8 x64-384GB NVMe-4CPU-16384MB-5000GB Bandwidth
 
